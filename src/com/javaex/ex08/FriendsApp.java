@@ -22,5 +22,7 @@ public class FriendsApp {
         for(int i=0;i<friends.length;i++) {
             friends[i].showInfo();
         }
+
+        sc.close();
     }
 }

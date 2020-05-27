@@ -54,5 +54,7 @@ public class CalcApp {
                 }
             }
         } while(!end);
+
+        calc.close();
     }
 }
